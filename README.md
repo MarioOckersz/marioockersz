@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **General_CodeWorks**
 
-- ⚡ A small Fun fact **"Is your name Google? Because you have everything I’ve been searching for"**
+- ⚡ A small Fun fact **"Is your name Google? Because you have everything I’ve been searching for lol"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
