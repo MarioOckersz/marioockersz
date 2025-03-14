@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mario</h1>
-<h3 align="center">A CS developer & enthusiast from 🇱🇰</h3>
+<h1 align="center">Hi there, Mario is here...</h1>
+<h3 align="center">A CS developer + data & hardware enthusiast from 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioockersz&label=Profile%20views&color=0e75b6&style=flat" alt="marioockersz" /> </p>
 
 - 🔭 I’m currently working on **General_CodeWorks**
 
-- ⚡ Fun fact **"Is your name Google? Because you have everything I’ve been searching for"**
+- ⚡ A small Fun fact **"Is your name Google? Because you have everything I’ve been searching for"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
