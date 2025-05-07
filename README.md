@@ -1,4 +1,4 @@
-![banner](\githubBanner.png)
+![banner](/githubBanner.png)
 <h1 align="center">Hi there, Mario is here...</h1>
 <h3 align="center">A CS developer + data & hardware enthusiast from 🇱🇰</h3>
 
