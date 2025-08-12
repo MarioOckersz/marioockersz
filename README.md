@@ -9,7 +9,9 @@
 - ⚡ A small Fun fact **"Is your name Google? Because you have everything I’ve been searching for lol ;] "**
 
 <h3 align="left">Wanna Connect with me:</h3>
+
 **"You know how to find me."** – Ethan Hunt (*Mission: Impossible III*)
+
 <p align="left">
 </p>
 
