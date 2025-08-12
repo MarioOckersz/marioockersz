@@ -4,11 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioockersz&label=Profile%20views&color=0e75b6&style=flat" alt="marioockersz" /> </p>
 
-- 🔭 I’m currently working on **General_CodeWorks**
+- 🔭 Currently working on **General_CodeWorks**
 
 - ⚡ A small Fun fact **"Is your name Google? Because you have everything I’ve been searching for lol ;] "**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Wanna Connect with me:</h3>
+**"You know how to find me." – Ethan Hunt (Mission: Impossible III)**
 <p align="left">
 </p>
 
