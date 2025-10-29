@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioockersz&label=Profile%20views&color=0e75b6&style=flat" alt="marioockersz" /> </p>
 
-- 🔭 Currently working on **General_Code_Works**
+- 🔭 Currently working on **General_Computer_Systems**
 
 - ⚡ A small Fun fact **"Is your name Google? Because you have everything I’ve been searching for lol ;] "**
 
