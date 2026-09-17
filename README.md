@@ -54,8 +54,8 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" width="40" height="40"/> </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fritzing_icon.png/120px-Fritzing_icon.png" alt="fritzing" width="40" height="40"/> </a>
-  <a href="https://easyeda.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/EasyEDA-101010?style=for-the-badge" alt="easyeda"/> </a>
+  <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/fritzing.png" alt="fritzing" width="40" height="40" style="border-radius: 20%;"/> </a>
+  <a href="https://easyeda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/easyeda.png" alt="easyeda" width="40" height="40" style="border-radius: 20%;"/> </a>
 
   <!-- Databases & API -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -67,4 +67,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioockersz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioockersz&show_icons=true&locale=en&layout=compact&theme=dark&v=2" alt="Top Languages"/>
+</a>
+
