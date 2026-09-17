@@ -48,11 +48,14 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikitlearn" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a>
 
   <!-- Hardware & Mobile -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" width="40" height="40"/> </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/388902?s=200&v=4" alt="fritzing" width="40" height="40" style="border-radius: 20%;"/> </a>
+  <a href="https://easyeda.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18585465?s=200&v=4" alt="easyeda" width="40" height="40" style="border-radius: 20%;"/> </a>
 
   <!-- Databases & API -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -64,4 +67,4 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioockersz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marioockersz&show_icons=true&locale=en&layout=compact&theme=dark&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
